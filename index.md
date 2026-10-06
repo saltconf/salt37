@@ -80,7 +80,7 @@ By attending, you agree to abide by the [Code of Conduct]({{ "/code-of-conduct/"
   {% endif %}
   ({{ organizer.institutions | join: ", " }})
   </li>
-
+{% endfor %}
   
 
 ## Sponsors
