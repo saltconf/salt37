@@ -82,8 +82,10 @@ By attending, you agree to abide by the [Code of Conduct]({{ "/code-of-conduct/"
   ({{ organizer.institutions | join: ", " }})
   </li>
 
-  -->
+  
 
 ## Sponsors
 
 SALT{{ site.saltnum }} is sponsored by the .... The [Linguistic Society of America](https://www.lsadc.org/) handles the registration and publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).
+
+-->
