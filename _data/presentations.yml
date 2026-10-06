@@ -1,8 +1,8 @@
 keynotes:
   name: Keynotes
   person1_topic:
-    authors: Danny Fox
-    - second_person
+    authors: 
+    - first_person
     title: Second Person's Keynote Title
     abstract_formats: [pdf]
     materials_type: slides
@@ -18,6 +18,13 @@ keynotes:
     authors:
     - third_person
     title: Third Person's Keynote Title
+    abstract_formats: [md] 
+    materials_type: handout
+    materials_format: pdf
+  person4_topic:
+    authors:
+    - fourth_person
+    title: Fourth Person's Keynote Title
     abstract_formats: [md] 
     materials_type: handout
     materials_format: pdf
