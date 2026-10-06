@@ -1,5 +1,12 @@
 keynotes:
   name: Keynotes
+  person1_topic:
+    authors: Danny Fox
+    - second_person
+    title: Second Person's Keynote Title
+    abstract_formats: [pdf]
+    materials_type: slides
+    materials_format: pdf
   person2_topic:
     authors:
     - second_person
