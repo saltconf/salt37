@@ -66,6 +66,23 @@ For questions or comments, please contact <span style="font-family: monospace">[
 
 <hr/>
 
+<!--
+
+## Organizing Committee
+
+{% for organizer_id in site.data.organizers %}
+{% assign organizer = site.data.people[organizer_id] %}
+<li>
+  {% if organizer.website %}
+    <a href="{{ organizer.website }}">{{ organizer.name }}</a>
+  {% else %}
+    {{ organizer.name }}
+  {% endif %}
+  ({{ organizer.institutions | join: ", " }})
+  </li>
+
+  -->
+
 ## Sponsors
 
 SALT{{ site.saltnum }} is sponsored by the .... The [Linguistic Society of America](https://www.lsadc.org/) handles the registration and publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).
