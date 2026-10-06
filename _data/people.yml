@@ -1,15 +1,20 @@
 first_person:
-  name: First Person
+  name: Danny Fox
   institutions:
-  - University1
-  website: "#"
+  - Massachusetts Institute of Technology
+  website: "https://linguistics.mit.edu/user/fox/"
 second_person:
-  name: Second Person
+  name: Matthew Mandelkern
   institutions:
-  - University2
-  website: "#"
+  - New York University
+  website: "https://mmandelkern.github.io/"
 third_person:
-  name: Third Person
+  name: Lisa Matthewson
   institutions:
-  - University3
-  website: "#"
+  - University of British Columbia
+  website: "https://linguistics.ubc.ca/profile/lisa-matthewson/"
+fourth_person:
+  name:  Lyn Tieu
+  institutions:
+  - University of Toronto
+  website: "https://lyntieu.com/"
