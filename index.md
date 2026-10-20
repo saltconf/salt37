@@ -74,8 +74,7 @@ Paloma Jeretič, Anna Papafragou, Florian Schwarz
 
 Contact: salt37.upenn@gmail.com
 
-<!-- 
-{% for organizer_id in site.data.organizers %}
+<!-- {% for organizer_id in site.data.organizers %}
 {% assign organizer = site.data.people[organizer_id] %}
 <li>
   {% if organizer.website %}
@@ -85,8 +84,7 @@ Contact: salt37.upenn@gmail.com
   {% endif %}
   ({{ organizer.institutions | join: ", " }})
   </li>
-{% endfor %} 
--->
+{% endfor %} -->
   
 
 ## Sponsors
