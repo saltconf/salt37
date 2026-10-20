@@ -73,6 +73,7 @@ By attending, you agree to abide by the [Code of Conduct]({{ "/code-of-conduct/"
 Paloma Jeretič, Anna Papafragou, Florian Schwarz
 
 Contact: salt37.upenn@gmail.com
+
 <!-- 
 {% for organizer_id in site.data.organizers %}
 {% assign organizer = site.data.people[organizer_id] %}
