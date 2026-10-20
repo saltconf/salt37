@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-Semantics and Linguistic Theory (SALT) {{ site.saltnum }} will be hosted by the Linguistics Department at the {{ site.uni }} on {{ site.dates }}, {{ site.year }}. The conference will be held solely in-person, and there will be no remote presentation or attendance option.
+Semantics and Linguistic Theory (SALT) {{ site.saltnum }} will be hosted by the Linguistics Department at the {{ site.uni }} on {{ site.dates }}, {{ site.year }}. All presentations will be in-person.
 
 <!-- As part of SALT{{ site.saltnum }}, the SALT Equity and Diversity Committee (SALTED) and the SALT{{ site.saltnum }} organizing committee will hold a workshop: *...*. -->
 
@@ -85,4 +85,4 @@ By attending, you agree to abide by the [Code of Conduct]({{ "/code-of-conduct/"
 
 ## Sponsors
 
-SALT{{ site.saltnum }} is sponsored by the .... The [Linguistic Society of America](https://www.lsadc.org/) handles the registration and publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).
+SALT{{ site.saltnum }} is sponsored by the Department of Linguistics and MindCORE at the University of Pennsylvania. The [Linguistic Society of America](https://www.lsadc.org/) handles the registration and publishes [the conference proceedings](https://journals.linguisticsociety.org/proceedings/index.php/SALT).
