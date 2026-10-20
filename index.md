@@ -70,6 +70,10 @@ By attending, you agree to abide by the [Code of Conduct]({{ "/code-of-conduct/"
 
 ## Organizing Committee
 
+Paloma Jeretič, Anna Papafragou, Florian Schwarz
+
+Contact: salt37.upenn@gmail.com
+<!-- 
 {% for organizer_id in site.data.organizers %}
 {% assign organizer = site.data.people[organizer_id] %}
 <li>
@@ -80,7 +84,8 @@ By attending, you agree to abide by the [Code of Conduct]({{ "/code-of-conduct/"
   {% endif %}
   ({{ organizer.institutions | join: ", " }})
   </li>
-{% endfor %}
+{% endfor %} 
+-->
   
 
 ## Sponsors
