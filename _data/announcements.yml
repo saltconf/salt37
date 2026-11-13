@@ -1,5 +1,5 @@
 - date: "Nov 13"
-  text: "Abstract submission is now open. See <a href=\"call-for-abstracts/\">Call for Abstracts</a>."
+  text: "Abstract submission is now open. See <a href=\"{{ '/call-for-abstracts/' | relative_url }}\">Call for Abstracts</a>."
   
 - date: "Oct 6"
   text: "The abstract submission deadline is December 15. Abstract submission opens on November 15."
