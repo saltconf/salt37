@@ -11,8 +11,8 @@
 #   relative: true
 
 - title: Call for abstracts
-   url: /call-for-abstracts/
-   relative: true
+  url: /call-for-abstracts/
+  relative: true
 
 # - title: SALTED
 #   url: /salted/
