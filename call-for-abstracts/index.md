@@ -5,15 +5,15 @@ layout: default
 
 The organizers of the {{ site.saltnum }}th annual meeting of Semantics and Linguistic Theory (SALT{{ site.saltnum }}) invite submission of abstracts for 30-minute oral presentations (with an additional 10 minutes for questions) or posters on any topic in natural language semantics with relevance to linguistic theory. 
 
-SALT{{ site.saltnum }} will be held solely in-person, and there will be no remote presentation or attendance option.
+<!-- SALT{{ site.saltnum }} will be held solely in-person, and there will be no remote presentation or attendance option. -->
 
 <hr/>
 
 ## Submission details
 
-**<span class="alert">Deadline:</span> Monday, December ...**, 11:59 pm (UTC-12)
+**<span class="alert">Deadline:</span> Tuesday, December 15**, 11:59 pm (UTC-5)
 
-Submissions should be made via the SALT{{ site.saltnum }} OpenReview site (<a href="#">link</a>). We expect to notify authors of their acceptance in mid-February ....
+Submissions should be made via the SALT{{ site.saltnum }} OpenReview site (<a href="#">https://openreview.net/group?id=saltconf.github.io/SALT/2027</a>). We expect to notify authors of their acceptance in mid-February.
 
 
 <hr/>
