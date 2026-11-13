@@ -13,7 +13,7 @@ The organizers of the {{ site.saltnum }}th annual meeting of Semantics and Lingu
 
 **<span class="alert">Deadline:</span> Tuesday, December 15**, 11:59 pm (UTC-5)
 
-Submissions should be made via the SALT{{ site.saltnum }} OpenReview site (<a href="#">https://openreview.net/group?id=saltconf.github.io/SALT/2027</a>). We expect to notify authors of their acceptance in mid-February.
+Submissions should be made via the SALT{{ site.saltnum }} (<a href="https://openreview.net/group?id=saltconf.github.io/SALT/2027">OpenReview site</a>). We expect to notify authors of their acceptance in mid-February.
 
 
 <hr/>
